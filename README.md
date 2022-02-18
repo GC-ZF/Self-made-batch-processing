@@ -3,11 +3,11 @@
 自写的一些可执行文件
 
 **📣目录**
-- [Timing mouse movement](#Timing mouse movement)
+- [Timing mouse movement](#Timing-mouse-movement)
 - [bat](#bat)
 - [exe](#exe)
 - [ico](#ico)
-- [magic bulle](#magic bulle)
+- [magic bulle](#magic-bulle)
 
 # Timing mouse movement
 >文件exe中防睡眠的源程序
