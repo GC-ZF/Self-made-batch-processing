@@ -27,6 +27,6 @@
 *.lib
 
 # Executables
-# *.exe
+#取消 *.exe
 *.out
 *.app
