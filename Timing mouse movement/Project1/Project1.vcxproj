@@ -23,6 +23,7 @@
     <ProjectGuid>{A02E1FBD-EBE5-40DB-A3B5-C2DD9084B96F}</ProjectGuid>
     <RootNamespace>Project1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>Timing mouse movement</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -123,8 +124,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Timing mouse movement 秒计时.cpp" />
-    <ClCompile Include="Timing mouse movement 分计时.cpp" />
+    <ClCompile Include="sleep计数 空格 防睡眠.cpp" />
+    <ClCompile Include="Systemtime 空格 防睡眠.cpp" />
+    <ClCompile Include="clock计数 空格 防睡眠.cpp" />
+    <ClCompile Include="sleep计数 鼠标加键盘 防睡眠.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
