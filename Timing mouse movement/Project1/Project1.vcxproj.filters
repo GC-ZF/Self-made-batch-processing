@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sleep计数 鼠标加键盘 防睡眠.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Systemtime 空格 防睡眠.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -25,6 +22,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="sleep计数 空格 防睡眠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sleep计数 鼠标加空格 防睡眠.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

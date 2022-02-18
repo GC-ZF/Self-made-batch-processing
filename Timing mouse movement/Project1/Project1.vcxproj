@@ -127,7 +127,7 @@
     <ClCompile Include="sleep计数 空格 防睡眠.cpp" />
     <ClCompile Include="Systemtime 空格 防睡眠.cpp" />
     <ClCompile Include="clock计数 空格 防睡眠.cpp" />
-    <ClCompile Include="sleep计数 鼠标加键盘 防睡眠.cpp" />
+    <ClCompile Include="sleep计数 鼠标加空格 防睡眠.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

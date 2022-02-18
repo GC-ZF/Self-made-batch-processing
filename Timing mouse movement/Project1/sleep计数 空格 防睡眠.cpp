@@ -51,7 +51,7 @@ int main2() {
 
 		//输出点击时间
 		GetLocalTime(&time);
-		cout << "点击鼠标 " << time.wHour << "时" << time.wMinute << "分" << time.wSecond << "秒" << time.wMilliseconds << "微秒" << endl;
+		cout << time.wHour << "时" << time.wMinute << "分" << time.wSecond << "秒" << time.wMilliseconds << "微秒" << "  唤醒电脑 " << endl;
 	}
 
 	return 0;

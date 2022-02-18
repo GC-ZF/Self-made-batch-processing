@@ -3,7 +3,7 @@
 #include<time.h>
 using namespace std;
 
-int main() {
+int main4() {
 	/*利用Systemtime两个变量的差值定时:start,end
 	利用Systemtime变量获取电脑时间:time
 	时间间隔变量:time_interval		time_interval=start-end
