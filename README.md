@@ -1,8 +1,8 @@
-<h1 align="center">Self-made-batch-processing's introduce</h1>
+<h1 align="center">Self made-batch processing's introduce</h1>
 
 自写的一些可执行文件
 
-**📣目录**
+**📣文件目录**
 - [Timing mouse movement](#Timing-mouse-movement)
 - [bat](#bat)
 - [exe](#exe)
@@ -10,8 +10,8 @@
 - [magic bulle](#magic-bulle)
 
 # Timing mouse movement
->文件exe中防睡眠的源程序
->因为有时候需要长时间挂机下载，基于C+写的四种防止电脑睡眠
+>文件夹exe中防睡眠的源程序
+>因为有时候需要长时间挂机下载，基于C+写的四种防止电脑睡眠，定时按键唤醒电脑
 >* Systemtime 空格 防睡眠.cpp
 >* clock计数 空格 防睡眠.cpp
 >* sleep计数 空格 防睡眠.cpp
@@ -38,7 +38,7 @@
 >自用的电脑图标
 
 # magic bulle
->文件exe中versionx.x magic bullet的源程序
+>文件夹exe中versionx.x magic bullet的源程序
 >* version1.0 magic bullet 基础版.cpp
 >* version1.1 magic bullet 随机鼠标位置版.cpp
 >* version1.2 magic bullet 随机鼠标位置 强制关机.cpp
