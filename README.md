@@ -11,7 +11,7 @@
 
 # Timing mouse movement
 >文件夹exe中防睡眠的源程序
->因为有时候需要长时间挂机下载，基于C+写的四种防止电脑睡眠，定时按键唤醒电脑
+>因为有时候需要长时间挂机下载，重复操作设置电脑休眠时间，程序员就要用程序员的办法！基于C+写的四种防止电脑睡眠，定时按键唤醒电脑
 >* Systemtime 空格 防睡眠.cpp
 >* clock计数 空格 防睡眠.cpp
 >* sleep计数 空格 防睡眠.cpp
@@ -39,6 +39,7 @@
 
 # magic bulle
 >文件夹exe中versionx.x magic bullet的源程序
+>自写的弹窗整蛊
 >* version1.0 magic bullet 基础版.cpp
 >* version1.1 magic bullet 随机鼠标位置版.cpp
 >* version1.2 magic bullet 随机鼠标位置 强制关机.cpp
