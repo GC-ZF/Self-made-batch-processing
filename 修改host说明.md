@@ -72,13 +72,7 @@ linux下需执行`sudo /etc/init.d/networking restart`重启网络。
 
 **第六步**，测试一下！
 
-## 参考
 
-教程：[解决方案：修改hosts文件无法保存/只能另存为txt_Repuuunzel-CSDN博客](https://blog.csdn.net/qq_39118700/article/details/106303995?ops_request_misc=%7B%22request%5Fid%22%3A%22163774424816780265432137%22%2C%22scm%22%3A%2220140713.130102334.pc%5Fall.%22%7D&request_id=163774424816780265432137&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-5-106303995.first_rank_v2_pc_rank_v29&utm_term=修改hosts文件无法保存&spm=1018.2226.3001.4187)
 
-[修改hosts文件加速GitHub访问_BugAngel的博客-CSDN博客_github hosts加速](https://blog.csdn.net/qq_32506245/article/details/105977545?ops_request_misc=%7B%22request%5Fid%22%3A%22163835512116780269862638%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=163835512116780269862638&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-4-105977545.first_rank_v2_pc_rank_v29&utm_term=github修改host&spm=1018.2226.3001.4187)
-
-## 入门
-
-[Hello World - GitHub Docs](https://docs.github.com/en/get-started/quickstart/hello-world)
+<h1>modifyhost.bat就是用上述方法写的，需要右击属性设置默认以管理员运行</h1>
 
