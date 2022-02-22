@@ -22,7 +22,9 @@
 >* Origin启动发生意料之外解决办法.bat(删除Origin缓存)
 >* delete by GC-ZF.bat(删除VS工程缓存)
 >* flushdns.bat(刷新电脑DNS)
->* modifyhost.bat(修改电脑Host地址) (无法访问Github可以刷一下DNS，如果无效，可以修改Host后再刷一次)
+>* modifyhost.bat(修改电脑Host地址)
+>
+> (无法访问Github可以刷一下DNS，如果无效，可以修改Host后再刷一次，或者自己爬梯子)
 
 # exe
 >C++的可执行文件
