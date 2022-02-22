@@ -20,7 +20,7 @@
 # bat
 >自用的批处理文件
 >* Origin启动发生意料之外解决办法.bat(删除Origin缓存)
->* delete by GC-ZF.bat(删除VS工程缓存)
+>* delete by GC-ZF.bat(删除VS工程缓存，放在项目根目录执行)
 >* flushdns.bat(刷新电脑DNS)
 >* modifyhost.bat(修改电脑Host地址)
 >
