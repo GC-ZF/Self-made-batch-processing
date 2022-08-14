@@ -1,6 +1,6 @@
 <h1 align="center">Self made-batch processing's introduce</h1>
 <p align="center">
-      			<a style="margin-inline:5px" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      			<a style="margin-inline:5px" target="_blank" href="">
 				<img  src="https://visitor-badge.glitch.me/badge?page_id=Self-made-batch-processing" title="访客"/>
 			</a>
 </p>
