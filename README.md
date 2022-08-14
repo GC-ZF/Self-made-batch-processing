@@ -1,4 +1,9 @@
 <h1 align="center">Self made-batch processing's introduce</h1>
+<p align="center">
+      			<a style="margin-inline:5px" target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+				<img  src="https://visitor-badge.glitch.me/badge?page_id=TG-Learn" title="访客"/>
+			</a>
+</p>
 
 自写的一些可执行文件
 
