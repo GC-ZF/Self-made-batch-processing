@@ -29,6 +29,7 @@
 * flushdns.bat(刷新电脑DNS)
 * modifyhost.bat(修改电脑Host地址)
 * 清理临时文件.bat
+* WeChat多开生成.bat
 > (无法访问Github可以刷一下DNS，如果无效，可以修改Host后再刷一次，或者自己爬梯子)
 
 # exe
